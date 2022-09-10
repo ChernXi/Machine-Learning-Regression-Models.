@@ -35,4 +35,4 @@ Boston House Price dataset is used as the source data in this project.
 
 Compared with the deep neural network(DNN), these models are significantly faster, and some of them even can outperform the DNN in terms of accuracy!
 
-<p align="center"><img src="Regressors_Performance.png"</p>
+<p align="center"><img src="Regressor_Performance_table.png"</p>

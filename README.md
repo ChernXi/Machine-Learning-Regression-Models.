@@ -27,7 +27,12 @@ The time required to train these models, as well as their MAE and MSE, are then 
 
 Boston House Price dataset is used as the source data in this project.
 
+## Code
+[To explore the data](Machine_Learning_Regression_Models.ipynb) <br>
+[Compact code for comparison](ML_Regressor_Comparison.ipynb)
+
 ## Result
 
 Compared with the deep neural network(DNN), these models are significantly faster, and some of them even can outperform the DNN in terms of accuracy!
 
+<p align="center"><img width="800" height="600" src="Regressors_Performance.png"</p>

@@ -23,9 +23,9 @@ We will also construct a deep neural network model to make comparisons.<br>
 
 The time required to train these models, as well as their MAE and MSE, are then tabulated in a table, with the latter obtained using the SciKitlearn tools.<br>
 
-## Source Data  
+## Input Data  
 
-Boston House Price dataset is used as the source data in this project.
+Boston House Price dataset is used as the input data in this project.
 
 ## Code
 [To explore the data](Machine_Learning_Regression_Models.ipynb) <br>
